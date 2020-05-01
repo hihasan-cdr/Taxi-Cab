@@ -1,0 +1,108 @@
+@media (max-width:992px){
+    header{width:100%; height: 630px;}
+    .navbar-expand-lg .navbar-nav .nav-link { margin-top: 5px;}
+    #side-margin{padding-top: 50px;}
+    #bottom-cab{margin-top: 1rem !important;}
+    #bottom-cab .d-flex{margin:auto 100px;} 
+    #top-cab h2{ font-size: 33px;}
+    #top-cab h1{font-size: 37px;}
+
+    #top-testi h2{ font-size: 33px;}
+    #top-testi h1{font-size: 37px;}
+
+    #hotline h1{font-size: 60px;}
+    #hotline h2{font-size: 30px;}
+
+    #cont-info .d-flex{padding-bottom: 2px;}
+}
+
+
+
+@media (max-width:767px){
+    header{width:100%; height:550px;}
+    #header-car{padding:auto 20px;}
+    #header-car h3{font-size: 24px;}
+    #header-car h1{font-size: 34px;}
+    #header-car p{letter-spacing:.3rem; font-size: 15px;}
+
+    #top-margin h3{font-size: 24px;}
+    #top-margin h2{font-size: 34px;}
+    #top-margin p{font-size: 18px; margin:25px auto 35px;}
+
+    #cards .card-header h3{font-size: 28px;}
+    #tariffs .card{margin-top:120px;}
+    #tariffs .f-card{margin-top:0px;}
+
+    #best-margin{margin:50px auto 60px;}
+    #best{margin-top: 0px;}
+    #best-margin h1{font-size: 30px;}
+    #best-margin h2{font-size: 26px;}
+    #best .d-para h3{font-size: 20px;}
+    #bottom-cab{margin-top: 0rem !important;}
+    #top-cab h2{ font-size: 26px;}
+    #top-cab h1{font-size: 30px;}
+
+    #top-testi h2{ font-size: 26px;}
+    #top-testi h1{font-size: 30px;}
+
+    #hotline h1{font-size: 50px;}
+    #hotline h2{font-size: 28px;}
+
+
+    
+
+ 
+
+}
+
+@media (max-width:555px){
+    header{width:100%; height:500px;}
+    #header-car{margin:auto 20px;}
+    #header-car h3{font-size: 22px;}
+    #header-car h1{font-size: 32px;}
+    #header-car p{letter-spacing:.3rem; font-size: 14px;}
+
+    #top-margin h3{font-size: 22px;}
+    #top-margin h2{font-size: 32px;}
+    #top-margin p{font-size: 18px; margin:22px auto 30px;}
+    #cards .card-header h3{font-size: 26px;}
+    #top-cab h2{ font-size: 24px;}
+    #top-cab h1{font-size: 28px;}
+    #bottom-cab h3{font-size: 20px;}
+
+    #top-testi h2{ font-size: 24px;}
+    #top-testi h1{font-size: 28px;}
+
+
+}
+
+
+@media (max-width:480px){
+    header{width: 100%; height:470px;}
+    #header-car{padding:auto 20px;}
+    #header-car h3{font-size: 20px;}
+    #header-car h1{font-size: 30px;}
+    #header-car p{letter-spacing:.3rem; font-size: 13px;}
+
+    #top-margin h3{font-size: 20px;}
+    #top-margin h2{font-size: 26px;}
+
+    #about-info .d-flex{margin:auto 37%;}
+}
+
+@media (max-width:420px){
+    header{width: 100%; height:420px;}
+    #header-car{padding:auto 20px;}  
+    #header-car h3{font-size:16px;}
+    #header-car h1{font-size: 26px;}
+    #header-car p{letter-spacing:.3rem; font-size: 10px;}
+
+}
+
+@media (max-width:350px){
+    header{width: 100%; height:390px;}
+    #header-car{padding:auto 20px;}  
+    #about-info .d-flex{margin:auto 34%;}
+}
+
+
